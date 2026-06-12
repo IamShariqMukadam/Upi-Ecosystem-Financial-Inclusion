@@ -1,0 +1,48 @@
+# ── Virtual Environment ──────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Environment Variables (NEVER push this) ──
+.env
+.env.local
+.env.*.local
+
+# ── Python Cache ─────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Jupyter Notebooks ────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Data Files (raw can be large) ────────────
+data/raw/
+*.csv
+!data/processed/*.csv
+
+# ── PostScript / temp exports ────────────────
+pd
+*.ps
+*.eps
+
+# ── OS Files ─────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.code-workspace
+
+# ── Logs ─────────────────────────────────────
+*.log
+logs/
+
+# ── Power BI (optional - file is large) ──────
+# *.pbix
