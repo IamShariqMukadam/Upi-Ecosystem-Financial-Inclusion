@@ -1,0 +1,5 @@
+era,months,avg_monthly_volume_crore,avg_ticket_rs,avg_mom_growth_pct,era_start,era_end
+1_Post-Demonetization Growth,4,129.0,1609.0,2.89,2019-11-01,2020-02-01
+2_COVID Impact,15,192.0,1825.0,4.96,2020-03-01,2021-05-01
+3_Post-COVID Surge,19,528.0,1759.0,6.29,2021-06-01,2022-12-01
+4_Maturity Phase,39,1494.0,1428.0,2.9,2023-01-01,2026-03-01

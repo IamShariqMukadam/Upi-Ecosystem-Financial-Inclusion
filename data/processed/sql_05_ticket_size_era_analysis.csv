@@ -1,0 +1,5 @@
+era,months,avg_monthly_volume_crore,avg_ticket_rs,min_ticket_rs,max_ticket_rs,avg_mom_growth_pct,era_start,era_end,payment_regime
+1_Post-Demonetization Growth,4,129.0,1609.0,1548.0,1678.0,2.89,2019-11-01,2020-02-01,High-Value Transfer Dominant
+2_COVID Impact,15,192.0,1825.0,1512.0,1959.0,4.96,2020-03-01,2021-05-01,High-Value Transfer Dominant
+3_Post-COVID Surge,19,528.0,1759.0,1629.0,1950.0,6.29,2021-06-01,2022-12-01,High-Value Transfer Dominant
+4_Maturity Phase,39,1494.0,1428.0,1242.0,1640.0,2.9,2023-01-01,2026-03-01,Transition / Mixed Use
