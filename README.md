@@ -1,31 +1,40 @@
 <div align="center">
 
-# 🇮🇳 UPI Payment Intelligence
+# 💳 UPI Payment Intelligence
 
-### India's ₹2.95 Lakh Crore digital payment revolution — decoded.
+### *India processed more digital payments than the entire US & Europe combined in 2024.*
+### *This project shows exactly how that happened.*
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data](https://img.shields.io/badge/Source-RBI%20%7C%20NPCI-orange?style=for-the-badge)
-![Coverage](https://img.shields.io/badge/Coverage-Nov%202019–Mar%202026-green?style=for-the-badge)
+<br>
 
-*Real government data. No Kaggle toy datasets. No made-up numbers.*
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Source](https://img.shields.io/badge/Data-RBI%20%26%20NPCI%20Official-green?style=for-the-badge)
+
+<br>
+
+| 📅 Coverage | 📊 Records | 🏦 Data Sources | 🔢 SQL Queries | 📈 Charts |
+|:-----------:|:----------:|:---------------:|:--------------:|:---------:|
+| Nov 2019 – Mar 2026 | 77 months | RBI · NPCI · data.gov.in | 5 | 7 |
+
+<br>
+
+**[🚀 View Live Dashboard](#) &nbsp;·&nbsp; [📂 Explore Data](#data-sources) &nbsp;·&nbsp; [💡 Key Findings](#-the-numbers-that-matter)**
 
 </div>
 
 ---
 
-## 📊 Dashboard — 3 Pages, 10 Visuals, 1 Story
-
-| 🚀 Growth Story | 🏦 Ecosystem Health | 🧠 Payment Intelligence |
-|:---:|:---:|:---:|
-| ![Page 1](dashboard/screenshots/page1_growth.png) | ![Page 2](dashboard/screenshots/page2_ecosystem.png) | ![Page 3](dashboard/screenshots/page3_intelligence.png) |
-| Volume growth by era | Bank network expansion | Seasonality & micro-payment shift |
-
 <div align="center">
 
-### 🔗 [View Live Interactive Dashboard →](your-powerbi-link-here)
+## 📸 Dashboard
+
+| 📈 Growth Story | 🏦 Ecosystem Health | 🧠 Payment Intelligence |
+|:---:|:---:|:---:|
+| ![Page 1](dashboard/screenshots/page1_growth.png) | ![Page 2](dashboard/screenshots/page2_ecosystem.png) | ![Page 3](dashboard/screenshots/page3_intelligence.png) |
+| Volume growth by era | Bank network expansion | Seasonality & regime shift |
 
 </div>
 
@@ -33,153 +42,180 @@
 
 ## ⚡ The Numbers That Matter
 
-<div align="center">
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **19x** | **₹1,304** | **271.7 Bn** | **58.5%** |
-| Volume growth since 2019 | Avg ticket size Mar 2026 | Annual txn run rate | P2M merchant share |
-| **2,264 Cr** | **684** | **458.9 Mn** | **+647%** |
-| Monthly txns Mar 2026 | Banks on UPI | Jan Dhan accounts | 2020 YoY growth |
-
-</div>
-
----
-
-## 🔍 What The Data Actually Says
-
-### 📈 Finding 1 — The Growth Is Unprecedented
-```
-Nov 2019  ████░░░░░░░░░░░░░░░░░░░░░░░░░░  121.88 Cr/month
-2021      ████████░░░░░░░░░░░░░░░░░░░░░░  322.28 Cr/month
-2023      ████████████████░░░░░░░░░░░░░░  980.10 Cr/month
-Mar 2026  ██████████████████████████████  2,264.11 Cr/month  ← 19x
-```
-UPI added more transactions in 2025 alone than it processed in its first 3 years combined.
-
----
-
-### 😷 Finding 2 — COVID Was a Catalyst, Not a Crisis
-> *"Every other industry crashed in 2020. UPI grew 647%."*
-
-When India locked down in Mar 2020, cash became dangerous. UPI became essential.
-- Avg ticket size **peaked at ₹1,959 in Jun 2020** — people moved rent, bulk groceries, family transfers online
-- **2020: +647.1% YoY** — the largest annual jump in UPI history
-- **2021: +105.1% YoY** — momentum didn't stop when lockdowns ended
-
----
-
-### 🏪 Finding 3 — The Merchant Revolution Nobody Talks About
-UPI launched as a way to send money to friends. It's now something far more powerful.
-
-```
-2020  P2P ████████████████████████ 61.6%  |  P2M ██████████ 38.4%
-2021  P2P ███████████████████████  56.5%  |  P2M ███████████ 43.5%
-2022  P2P █████████████████████    53.3%  |  P2M ████████████ 46.7%
-2023  P2P █████████████████        43.4%  |  P2M █████████████████ 56.6% ← tipped
-```
-**Merchants crossed 50% in 2023. Every chai shop, kirana store, and auto-rickshaw is now a UPI terminal.**
+<table>
+<tr>
+<td width="25%" align="center">
+<h2>19x</h2>
+Volume growth<br><sub>Nov 2019 → Mar 2026</sub>
+</td>
+<td width="25%" align="center">
+<h2>+647%</h2>
+YoY growth in 2020<br><sub>COVID was a catalyst</sub>
+</td>
+<td width="25%" align="center">
+<h2>58.5%</h2>
+P2M share by Aug 2023<br><sub>Up from 38.4% in 2020</sub>
+</td>
+<td width="25%" align="center">
+<h2>271.7 Bn</h2>
+Annual run rate<br><sub>Transactions per year</sub>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+<h2>₹1,304</h2>
+Avg ticket Mar 2026<br><sub>Down from ₹1,959 peak</sub>
+</td>
+<td width="25%" align="center">
+<h2>684</h2>
+Banks on UPI<br><sub>Up from 563 in 2024</sub>
+</td>
+<td width="25%" align="center">
+<h2>24x</h2>
+UPI vs IMPS volume<br><sub>No competition exists</sub>
+</td>
+<td width="25%" align="center">
+<h2>458.9M</h2>
+Jan Dhan accounts<br><sub>₹1.7L Cr in deposits</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-### 💸 Finding 4 — The Micro-Payment Shift Is Real
-| Era | Period | Avg Ticket | Payment Regime |
-|-----|--------|-----------|----------------|
-| Post-Demonetization Growth | Nov 2019–Feb 2020 | ₹1,609 | High-Value Transfers |
-| COVID Impact | Mar 2020–May 2021 | **₹1,825** ← Peak | High-Value Transfers |
-| Post-COVID Surge | Jun 2021–Dec 2022 | ₹1,759 | High-Value Transfers |
-| Maturity Phase | Jan 2023–Mar 2026 | ₹1,428 | **Transition → Micro** |
+## 🔍 5 Findings That Tell the Real Story
 
-Peak: ₹1,959 (Jun 2020) → Current: ₹1,304 (Mar 2026) — **33% drop in 6 years.**
-Every ₹50 chai, ₹120 medicine, ₹200 auto ride pulls the average down.
+### `#1` 🦠 COVID Was a Launchpad, Not a Setback
+> Everyone expected COVID to kill digital payments. The data says +647% YoY in 2020.
+
+When lockdowns hit, Indians stopped using cash overnight. Avg ticket size **peaked at ₹1,959 in Jun 2020** — people were moving rent, bulk groceries, and family funds digitally. UPI didn't just survive COVID, it used it as a growth engine.
 
 ---
 
-### 🏆 Finding 5 — There Is No Second Place
-```
-IMPS (UPI's closest competitor)
-2024 full year total:  5,938 Million transactions
-                       ████████░░░░░░░░░░░░░░░░░░░░░░
+### `#2` 🏪 The Merchant Revolution Nobody Talks About
+> UPI started as a way to split bills. It's now India's primary retail payment rail.
 
-UPI monthly average (2024):
-                       ████████████████████████████████████████  14,350 Million
 ```
-**UPI processes in ONE MONTH what IMPS processes in an ENTIRE YEAR.**
-The Indian retail payments race ended years ago. Everyone else is competing for second.
+Apr 2020  ████████████████░░░░░░░░░░░░░░  38.4% merchant payments
+Aug 2023  ████████████████████████░░░░░░  58.5% merchant payments
+```
+P2M (merchant) share grew **~3-4pp per year**, then **jumped 10pp in 2023 alone.**
+Every chai shop, kirana store, and petrol pump is now a UPI merchant.
 
 ---
 
-### 🏛️ Finding 6 — 459 Million People, One Account
-Jan Dhan → UPI → Financial inclusion pipeline:
-- **458,932,822** previously unbanked citizens now have accounts
-- **₹1,69,879 Crore** in deposits from zero-balance account holders
-- 36 states & UTs covered
-- States with sub-30% smartphone penetration = next 4 billion monthly transactions
+### `#3` 📉 Falling Ticket Size = Rising Adoption (Counterintuitive)
+> The avg transaction value is falling. That's actually the best sign possible.
+
+| Era | Period | Avg Ticket |
+|-----|--------|-----------|
+| Post-Demonetization Growth | Nov 2019–Feb 2020 | ₹1,609 |
+| COVID Impact | Mar 2020–May 2021 | **₹1,825 ← peak** |
+| Post-COVID Surge | Jun 2021–Dec 2022 | ₹1,759 |
+| Maturity Phase | Jan 2023–Mar 2026 | ₹1,428 ↓ |
+
+Ticket dropped ₹655 in 3 years because millions of ₹50 tea payments entered the system. That's not decline — that's mass adoption.
 
 ---
 
-## 🗄️ Data Pipeline
+### `#4` 🏆 There Is No Competition
+> IMPS is India's second-largest payment rail. UPI does IMPS's entire annual volume in **one month.**
 
-```
-RBI / NPCI / data.gov.in          Python (Pandas)            PostgreSQL
-Government Sources          →      Clean + Engineer    →      4 Tables
-                                   77 rows primary            upi_monthly
-13 raw files                       41 rows P2P/P2M            upi_p2p_p2m
-Nov 2019–Mar 2026                  120 rows NPCI              npci_products
-                                   36 rows Jan Dhan           jan_dhan_statewise
-                                         ↓
-                                   5 SQL Queries
-                                         ↓
-                                   Power BI Dashboard
-                                   3 pages · 10 visuals
-```
+| Payment Rail | 2024 Annual Volume |
+|-------------|-------------------|
+| IMPS | 5,938 Mn |
+| NETC (FASTag) | 4,059 Mn |
+| NACH APBS | 3,219 Mn |
+| **UPI (monthly avg)** | **~14,350 Mn** |
+
+UPI is **24x IMPS**. The Indian retail payments race ended years ago.
 
 ---
 
-## 🔬 SQL Queries
+### `#5` 📊 Year-over-Year — Moderating but Still Massive
+> Growth % is slowing. Absolute growth is not.
 
-| # | Query | The Question It Answers |
-|---|-------|------------------------|
-| 1 | `01_yoy_performance` | How fast did UPI grow each year and is it still growing? |
-| 2 | `02_p2p_vs_p2m_shift` | When did merchants overtake personal transfers? |
-| 3 | `03_bank_adoption_rate` | How fast is the banking network expanding? |
-| 4 | `04_payment_mode_comparison` | How dominant is UPI vs every other payment rail? |
-| 5 | `05_ticket_size_era_analysis` | Are we in the micro-payment era yet? |
+| Year | Total Volume | YoY Growth |
+|------|-------------|-----------|
+| 2019 (2 months) | 253 Cr | — |
+| 2020 | 1,888 Cr | 🟢 **+647.1%** |
+| 2021 | 3,873 Cr | 🟢 +105.1% |
+| 2022 | 7,404 Cr | 🟢 +91.2% |
+| 2023 | 11,761 Cr | 🟢 +58.9% |
+| 2024 | 17,221 Cr | 🟢 +46.4% |
+| 2025 | 22,828 Cr | 🟢 +32.6% |
+
+UPI still adds ~5,000 Crore transactions annually in absolute terms. Maturing ≠ slowing.
 
 ---
 
-## 📦 Tech Stack
+## 🏗️ How It Was Built
 
 ```
-Data Sources    →  RBI DBIE Portal · NPCI Monthly Stats · data.gov.in
-Engineering     →  Python 3.12 · Pandas · NumPy
-Database        →  PostgreSQL 16 · SQLAlchemy · psycopg2
-Visualisation   →  Matplotlib · Seaborn (EDA) · Power BI (Dashboard)
+📥 RAW DATA          🔧 PYTHON PIPELINE        🗄️ POSTGRESQL         📊 POWER BI
+─────────────        ──────────────────        ──────────────        ──────────
+RBI Excel       →    01_clean_engineer    →    upi_monthly      →    Growth Story
+NPCI CSVs       →    02_eda_charts        →    upi_p2p_p2m      →    Ecosystem
+Jan Dhan CSV    →    03_load_postgres     →    npci_products    →    Payment Intel
+13 files total  →    04_sql_queries       →    jan_dhan         →    3-page report
+                →    export_powerbi       →    5 SQL queries    →    Live dashboard
 ```
 
 ---
 
-## 🚀 Reproduce This
+## 📁 Project Structure
+
+```
+upi-payment-intelligence/
+├── 📂 data/raw/                ← 13 original government source files
+├── 📂 data/processed/          ← Cleaned CSVs + SQL outputs + Power BI exports
+├── 📂 notebooks/charts/        ← 7 EDA charts (PNG)
+├── 📂 sql/                     ← 5 analytical SQL queries
+├── 📂 dashboard/screenshots/   ← 3 Power BI page exports
+├── 🐍 00_setup.py              ← Environment verification
+├── 🐍 01_clean_engineer.py     ← Cleaning + feature engineering (77 rows → 18 features)
+├── 🐍 02_eda_visualizations.py ← 7 production charts
+├── 🐍 03_load_postgres.py      ← PostgreSQL loader (4 tables)
+├── 🐍 04_run_sql_queries.py    ← 5 SQL analytical queries
+└── 🐍 export_for_powerbi.py    ← Power BI CSV exporter (6 files)
+```
+
+---
+
+## 🗄️ Data Sources
+
+| Dataset | Source | Coverage |
+|---------|--------|----------|
+| UPI Monthly Volume & Value | NPCI via India Data Portal | Nov 2019–Mar 2026 |
+| UPI P2P vs P2M Breakdown | NPCI via India Data Portal | Apr 2020–Aug 2023 |
+| 10 Payment Rails (IMPS, NACH, FASTag etc.) | NPCI Monthly Statistics | 2024 |
+| Jan Dhan State-wise Accounts | data.gov.in | Latest snapshot, 36 states |
+
+> ⚠️ All data sourced directly from Indian government portals. No Kaggle. No synthetic data.
+
+---
+
+## ⚙️ Reproduce This Project
 
 ```bash
 git clone https://github.com/yourusername/upi-payment-intelligence
 cd upi-payment-intelligence
 pip install -r requirements.txt
 
-python 00_setup.py                 # verify 13 files + libraries
-python 01_clean_engineer.py        # clean → 4 processed CSVs
-python 02_eda_visualizations.py    # 7 EDA charts → notebooks/charts/
-python 03_load_postgres.py         # load 4 PostgreSQL tables
-python 04_run_sql_queries.py       # run 5 SQL queries
-python export_for_powerbi.py       # export 6 Power BI CSVs
+python 00_setup.py                 # ✓ verify environment & files
+python 01_clean_engineer.py        # ✓ clean + engineer 18 features
+python 02_eda_visualizations.py    # ✓ generate 7 EDA charts
+python 03_load_postgres.py         # ✓ load 4 tables to PostgreSQL
+python 04_run_sql_queries.py       # ✓ run 5 SQL queries
+python export_for_powerbi.py       # ✓ export 6 Power BI CSVs
 ```
 
 ---
 
 <div align="center">
 
-**Data Period:** Nov 2019 – Mar 2026 &nbsp;|&nbsp; **Source:** RBI & NPCI &nbsp;|&nbsp; **Rows Analysed:** 274 across 4 tables
+**Built on verified government data · Python · PostgreSQL · Power BI**
 
-*Every number in this README came directly from the pipeline output. Nothing estimated.*
+*If this repo helped you, give it a ⭐*
 
 </div>
