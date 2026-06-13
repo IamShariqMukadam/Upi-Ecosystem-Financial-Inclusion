@@ -33,7 +33,7 @@
 
 | 📈 Growth Story | 🏦 Ecosystem Health | 🧠 Payment Intelligence |
 |:---:|:---:|:---:|
-| ![Page 1](dashboard/screenshots/page1_growth.png) | ![Page 2](dashboard/screenshots/page2_ecosystem.png) | ![Page 3](dashboard/screenshots/page3_intelligence.png) |
+| ![Page 1](dashboard/screenshots/GrowthPage.png) | ![Page 2](dashboard/screenshots/EcosystemPage.png) | ![Page 3](dashboard/screenshots/PaymentPage.png) |
 | Volume growth by era | Bank network expansion | Seasonality & regime shift |
 
 </div>
