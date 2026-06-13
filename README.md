@@ -18,7 +18,7 @@
 
 <br>
 
-[![Live Dashboard](https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-CLICK%20TO%20SEE%20IT%20IN%20ACTION%20→-FFFFFF?style=for-the-badge&labelColor=1C1C2E&color=FFFFFF)](#)
+[![Live Dashboard](https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-CLICK%20TO%20SEE%20IT%20IN%20ACTION%20→-FFFFFF?style=for-the-badge&labelColor=1C1C2E&color=FFFFFF)](https://app.powerbi.com/reportEmbed?reportId=5862ccff-afde-4fc8-bb84-45c5ec35dd24)
 
 </div>
 
