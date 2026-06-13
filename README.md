@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💳 UPI Payment Intelligence
+# 💳 UPI Ecosystem & Financial Inclusion Intelligence
 
 ### *India processed more digital payments than the entire US & Europe combined in 2024.*
 ### *This project shows exactly how that happened.*
@@ -87,7 +87,7 @@
 
 ## 🔍 5 Findings That Tell the Real Story
 
-### <span style="color:#22c55e">`01` 🦠 COVID Was a Launchpad, Not a Setback</span>
+### ![01](https://img.shields.io/badge/01-22c55e?style=flat-square) 🦠 COVID Was a Launchpad, Not a Setback
 
 > Everyone expected COVID to kill digital payments. The data says **+647% YoY in 2020.**
 
@@ -95,7 +95,7 @@ When lockdowns hit, Indians stopped using cash overnight. Avg ticket size **peak
 
 ---
 
-### <span style="color:#3b82f6">`02` 🏪 The Merchant Revolution Nobody Talks About</span>
+### ![02](https://img.shields.io/badge/02-3b82f6?style=flat-square) 🏪 The Merchant Revolution Nobody Talks About
 
 > UPI started as a way to split bills. It's now India's primary retail payment rail.
 
@@ -108,7 +108,7 @@ Growth ran **~3-4pp per year**, then **jumped 10pp in 2023 alone.** Every chai s
 
 ---
 
-### <span style="color:#f59e0b">`03` 📉 Falling Ticket Size = Rising Adoption (Counterintuitive)</span>
+### ![03](https://img.shields.io/badge/03-f59e0b?style=flat-square) 📉 Falling Ticket Size = Rising Adoption (Counterintuitive)
 
 > The avg transaction value is falling. That's actually the best sign possible.
 
@@ -123,7 +123,7 @@ Ticket dropped **₹655 in 3 years** because millions of ₹50 tea payments ente
 
 ---
 
-### <span style="color:#ef4444">`04` 🏆 There Is No Competition</span>
+### ![04](https://img.shields.io/badge/04-ef4444?style=flat-square) 🏆 There Is No Competition
 
 > IMPS is India's second-largest payment rail. UPI does IMPS's **entire annual volume in one month.**
 
@@ -138,7 +138,7 @@ UPI is **24x IMPS.** The Indian retail payments race ended years ago.
 
 ---
 
-### <span style="color:#a855f7">`05` 📊 Year-over-Year — Moderating but Still Massive</span>
+### ![05](https://img.shields.io/badge/05-a855f7?style=flat-square) 📊 Year-over-Year — Moderating but Still Massive
 
 > Growth % is slowing. Absolute growth is not.
 
@@ -186,8 +186,7 @@ Jan Dhan CSV    →    03_load_postgres     →    npci_products    →    Payme
                 →    export_powerbi       →    5 SQL queries    →    Live dashboard
 ```
 
-<details>
-<summary><b>📁 Project Structure</b></summary>
+### 📁 Project Structure
 
 ```
 upi-payment-intelligence/
@@ -208,8 +207,6 @@ upi-payment-intelligence/
 ├── 🐍 04_run_sql_queries.py    ← 5 SQL analytical queries
 └── 🐍 export_for_powerbi.py    ← Power BI CSV exporter (6 files)
 ```
-
-</details>
 
 <details>
 <summary><b>⚙️ Reproduce This Project</b></summary>
@@ -233,7 +230,7 @@ python export_for_powerbi.py       # ✓ export 6 Power BI CSVs
 
 <div align="center">
 
-**Built on verified government data · Python · PostgreSQL · Power BI**
+**Built on Verified Government Data by Shariq Mukadam**
 
 *If this repo helped you, give it a ⭐*
 
