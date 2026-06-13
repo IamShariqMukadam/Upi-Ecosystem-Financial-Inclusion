@@ -7,18 +7,18 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">📅<br><b>77 months</b><br><sub>Nov 2019 – Mar 2026</sub></td>
-<td align="center">🏦<br><b>3 sources</b><br><sub>RBI · NPCI · data.gov.in</sub></td>
-<td align="center">🔢<br><b>5 queries</b><br><sub>SQL analysis</sub></td>
-<td align="center">📈<br><b>7 charts</b><br><sub>EDA visualizations</sub></td>
+<td align="center" width="25%">📅<br><b>77 months</b><br><sub>Nov 2019 – Mar 2026</sub></td>
+<td align="center" width="25%">🏦<br><b>3 sources</b><br><sub>RBI · NPCI · data.gov.in</sub></td>
+<td align="center" width="25%">🔢<br><b>5 queries</b><br><sub>SQL analysis</sub></td>
+<td align="center" width="25%">📈<br><b>7 charts</b><br><sub>EDA visualizations</sub></td>
 </tr>
 </table>
 
 <br>
 
-[![Live Dashboard](https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-CLICK%20TO%20SEE%20IT%20IN%20ACTION%20→-F2C811?style=for-the-badge)](#)
+[![Live Dashboard](https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-CLICK%20TO%20SEE%20IT%20IN%20ACTION%20→-FFFFFF?style=for-the-badge&labelColor=1C1C2E&color=FFFFFF)](#)
 
 </div>
 
@@ -44,9 +44,9 @@
 <table>
 <tr><td colspan="3" align="center">
 
-![Source](https://img.shields.io/badge/Source-Government%20Data-success?style=flat-square)
-![Format](https://img.shields.io/badge/Format-CSV%2FExcel-blue?style=flat-square)
-![Synthetic](https://img.shields.io/badge/Synthetic%20Data-None-red?style=flat-square)
+![Source](https://img.shields.io/badge/Source-Government%20Data-success?style=for-the-badge)
+![Format](https://img.shields.io/badge/Format-CSV%2FExcel-blue?style=for-the-badge)
+![Synthetic](https://img.shields.io/badge/Synthetic%20Data-None-red?style=for-the-badge)
 
 </td></tr>
 <tr>
@@ -161,7 +161,7 @@ UPI still adds **~5,000 Crore transactions annually** in absolute terms. Maturin
 **Languages**
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF6F00?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Data, BI & Visualization**
 
@@ -170,7 +170,7 @@ UPI still adds **~5,000 Crore transactions annually** in absolute terms. Maturin
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-2D7D46?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
