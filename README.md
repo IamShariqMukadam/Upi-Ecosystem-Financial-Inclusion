@@ -18,7 +18,7 @@
 
 <br>
 
-[![Live Dashboard](https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-CLICK%20TO%20SEE%20IT%20IN%20ACTION%20→-FFFFFF?style=for-the-badge&labelColor=1C1C2E&color=FFFFFF)](dashboard/screenshots/upi_intelligence.pdf)
+[![Dashboard](https://img.shields.io/badge/📊%20VIEW%20DASHBOARD-CLICK%20TO%20SEE%20SCREENSHOTS%20→-FFFFFF?style=for-the-badge&labelColor=1C1C2E&color=FFFFFF)](dashboard/screenshots/upi_intelligence.pdf)
 
 </div>
 
