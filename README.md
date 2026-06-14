@@ -18,7 +18,7 @@
 
 <br>
 
-[![Dashboard](https://img.shields.io/badge/📊%20VIEW%20DASHBOARD-CLICK%20TO%20SEE%20SCREENSHOTS%20→-FFFFFF?style=for-the-badge&labelColor=1C1C2E&color=FFFFFF)](dashboard/screenshots/upi_intelligence.pdf)
+[![Dashboard](https://img.shields.io/badge/📊%20VIEW%20DASHBOARD-PDF%20SCREENSHOTS%20→-FFFFFF?style=for-the-badge&labelColor=1C1C2E&color=FFFFFF)](dashboard/screenshots/upi_intelligence.pdf) [![Video](https://img.shields.io/badge/🎬%20WATCH%20WALKTHROUGH-CLICK%20TO%20SEE%20VIDEO%20→-FFFFFF?style=for-the-badge&labelColor=E63946&color=FFFFFF)](dashboard/Upi_Intelligence_Video_trimmed.mkv)
 
 </div>
 
