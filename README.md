@@ -9,16 +9,16 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">📅<br><b>77 months</b><br><sub>Nov 2019 – Mar 2026</sub></td>
-<td align="center" width="25%">🏦<br><b>3 sources</b><br><sub>RBI · NPCI · data.gov.in</sub></td>
-<td align="center" width="25%">🔢<br><b>5 queries</b><br><sub>SQL analysis</sub></td>
-<td align="center" width="25%">📈<br><b>7 charts</b><br><sub>EDA visualizations</sub></td>
+<td align="center" width="35%">📅<br><b>77 months</b><br><sub>Nov 2019 – Mar 2026</sub></td>
+<td align="center" width="35%">🏦<br><b>3 sources</b><br><sub>RBI · NPCI · data.gov.in</sub></td>
+<td align="center" width="35%">🔢<br><b>5 queries</b><br><sub>SQL analysis</sub></td>
+<td align="center" width="35%">📈<br><b>7 charts</b><br><sub>EDA visualizations</sub></td>
 </tr>
 </table>
 
 <br>
 
-[![Live Dashboard](https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-CLICK%20TO%20SEE%20IT%20IN%20ACTION%20→-FFFFFF?style=for-the-badge&labelColor=1C1C2E&color=FFFFFF)](https://app.powerbi.com/reportEmbed?reportId=5862ccff-afde-4fc8-bb84-45c5ec35dd24&autoAuth=true&ctid=29d6b2c1-5a07-49dc-ad3b-a84fe545e6d9)
+[![Live Dashboard](https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-CLICK%20TO%20SEE%20IT%20IN%20ACTION%20→-FFFFFF?style=for-the-badge&labelColor=1C1C2E&color=FFFFFF)](dashboard/screenshots/upi_intelligence.pdf)
 
 </div>
 
