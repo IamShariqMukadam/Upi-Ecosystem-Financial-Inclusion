@@ -7,14 +7,16 @@
 
 <br>
 
-<table width="100%">
+<div align="center" style="width:100%">
+<table width="100%" style="width:100%">
 <tr>
-<td align="center" width="35%">📅<br><b>77 months</b><br><sub>Nov 2019 – Mar 2026</sub></td>
-<td align="center" width="35%">🏦<br><b>3 sources</b><br><sub>RBI · NPCI · data.gov.in</sub></td>
-<td align="center" width="35%">🔢<br><b>5 queries</b><br><sub>SQL analysis</sub></td>
-<td align="center" width="35%">📈<br><b>7 charts</b><br><sub>EDA visualizations</sub></td>
+<td align="center" width="25%">📅<br><b>77 months</b><br><sub>Nov 2019 – Mar 2026</sub></td>
+<td align="center" width="25%">🏦<br><b>3 sources</b><br><sub>RBI · NPCI · data.gov.in</sub></td>
+<td align="center" width="25%">🔢<br><b>5 queries</b><br><sub>SQL analysis</sub></td>
+<td align="center" width="25%">📈<br><b>7 charts</b><br><sub>EDA visualizations</sub></td>
 </tr>
 </table>
+</div>
 
 <br>
 
