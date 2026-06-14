@@ -37,6 +37,9 @@
 ### 🧠 Payment Intelligence — *Seasonality & regime shift*
 <img src="dashboard/screenshots/PaymentPage.png" width="100%" />
 
+### 🗺️ Financial Inclusion — *State-wise digital gap analysis*
+<img src="dashboard/screenshots/FinancialInclusion.png" width="100%" />
+
 ---
 
 ## 🗄️ Data Sources
@@ -78,6 +81,12 @@
 <td align="center"><h1>684</h1><b>Banks on UPI</b><br><sub>Up from 563 in 2024</sub></td>
 <td align="center"><h1>24x</h1><b>UPI vs IMPS volume</b><br><sub>No competition exists</sub></td>
 <td align="center"><h1>458.9M</h1><b>Jan Dhan accounts</b><br><sub>₹1.7L Cr in deposits</sub></td>
+</tr>
+<tr>
+<td align="center"><h1>₹12,417 Cr</h1><b>Untapped potential</b><br><sub>Across 12 underserved states</sub></td>
+<td align="center"><h1>255.9M</h1><b>Accounts below avg</b><br><sub>55.8% of all Jan Dhan</sub></td>
+<td align="center"><h1>44.2%</h1><b>Inclusion health score</b><br><sub>States above national avg</sub></td>
+<td align="center"><h1>₹3,702</h1><b>National avg deposit</b><br><sub>Per Jan Dhan account</sub></td>
 </tr>
 </table>
 
@@ -156,6 +165,25 @@ UPI still adds **~5,000 Crore transactions annually** in absolute terms. Maturin
 
 ---
 
+### ![06](https://img.shields.io/badge/06-06b6d4?style=flat-square) 🗺️ The Financial Inclusion Gap — Where UPI Hasn't Reached Yet
+
+> 458.9 Million Jan Dhan accounts exist. But 55.8% of them are in states still operating below the national average deposit level.
+
+Using deposit-per-account as a proxy for digital payment adoption, 12 states fall below the national average of ₹3,702/account — meaning financially included but still cash-dependent.
+
+| State | Deposit/Account | Gap vs National Avg | Untapped Potential |
+|:---|:---:|:---:|---:|
+| Madhya Pradesh | ₹2,579 | ₹1,123 below | **₹4,240 Cr** |
+| Assam | ₹2,605 | ₹1,097 below | **₹2,276 Cr** |
+| Bihar | ₹3,479 | ₹223 below | **₹1,157 Cr** |
+| Tamil Nadu | ₹2,800 | ₹902 below | ₹1,101 Cr |
+| Chhattisgarh | ₹3,124 | ₹578 below | ₹933 Cr |
+| 7 more states | — | — | ₹2,710 Cr |
+
+**Total: ₹12,417 Crore** in untapped deposit potential across 255.9M accounts. These are the next billion UPI users.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -182,8 +210,9 @@ UPI still adds **~5,000 Crore transactions annually** in absolute terms. Maturin
 RBI Excel       →    01_clean_engineer    →    upi_monthly      →    Growth Story
 NPCI CSVs       →    02_eda_charts        →    upi_p2p_p2m      →    Ecosystem
 Jan Dhan CSV    →    03_load_postgres     →    npci_products    →    Payment Intel
-13 files total  →    04_sql_queries       →    jan_dhan         →    3-page report
-                →    export_powerbi       →    5 SQL queries    →    Live dashboard
+13 files total  →    04_sql_queries       →    jan_dhan         →    Financial Inclusion
+                →    05_inclusion_gap     →    inclusion_gap    →    4-page report
+                →    export_powerbi       →    6 SQL queries    →    Live dashboard
 ```
 
 ### 📁 Project Structure
@@ -199,12 +228,15 @@ upi-payment-intelligence/
 │   ├── 02_p2p_vs_p2m_shift.sql
 │   ├── 03_bank_adoption_rate.sql
 │   ├── 04_payment_mode_comparison.sql
-│   └── 05_ticket_size_era_analysis.sql
+│   ├── 05_ticket_size_era_analysis.sql
+|   └── 06_financial_inclusion_gap.sql
 ├── 🐍 00_setup.py              ← Environment verification
 ├── 🐍 01_clean_engineer.py     ← Cleaning + feature engineering (77 rows → 18 features)
 ├── 🐍 02_eda_visualizations.py ← 7 production charts
 ├── 🐍 03_load_postgres.py      ← PostgreSQL loader (4 tables)
 ├── 🐍 04_run_sql_queries.py    ← 5 SQL analytical queries
+├── 🐍 05_financial_inclusion_gap.py ← gap analysis + chart 8
+├── 🐍 06_run_inclusion_analysis.py  ← loads to PostgreSQL + SQL 6
 └── 🐍 export_for_powerbi.py    ← Power BI CSV exporter (6 files)
 ```
 

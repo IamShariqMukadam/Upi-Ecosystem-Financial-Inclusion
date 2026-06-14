@@ -1,0 +1,37 @@
+state,accounts,deposit_crore,deposit_per_account_rs,national_avg_rs,gap_vs_national_avg_rs,gap_crore,pct_of_national_avg,account_share_pct,inclusion_status,gap_severity
+Madhya Pradesh,37755462,9737.28,2579.0,3702.0,1123.0,4239.94,69.7,8.23,Digitally Underserved,Critical Gap
+Assam,20745021,5405.1,2605.0,3702.0,1097.0,2275.73,70.4,4.52,Digitally Underserved,Critical Gap
+Bihar,51872913,18048.59,3479.0,3702.0,223.0,1156.77,94.0,11.3,Digitally Underserved,High Gap
+Tamil Nadu,12207315,3417.87,2800.0,3702.0,902.0,1101.1,75.6,2.66,Digitally Underserved,High Gap
+Chhattisgarh,16140135,5042.45,3124.0,3702.0,578.0,932.9,84.4,3.52,Digitally Underserved,High Gap
+Telangana,10464845,3027.25,2893.0,3702.0,809.0,846.61,78.2,2.28,Digitally Underserved,High Gap
+Maharashtra,31638762,10938.9,3457.0,3702.0,245.0,775.15,93.4,6.89,Digitally Underserved,High Gap
+West Bengal,45453885,16408.24,3610.0,3702.0,92.0,418.18,97.5,9.9,Digitally Underserved,Moderate Gap
+Andhra Pradesh,11793089,4005.69,3397.0,3702.0,305.0,359.69,91.8,2.57,Digitally Underserved,Moderate Gap
+Manipur,1033849,227.91,2204.0,3702.0,1498.0,154.87,59.5,0.23,Digitally Underserved,Moderate Gap
+Jharkhand,16433530,5959.27,3626.0,3702.0,76.0,124.89,98.0,3.58,Digitally Underserved,Moderate Gap
+Nagaland,349118,97.87,2803.0,3702.0,899.0,31.39,75.7,0.08,Digitally Underserved,Moderate Gap
+Puducherry,170265,70.37,4133.0,3702.0,-431.0,-7.34,111.7,0.04,Above National Average,No Gap
+Lakshadweep,9911,16.13,16275.0,3702.0,-12573.0,-12.46,439.7,0.0,Above National Average,No Gap
+Andaman and Nicobar Islands,46840,31.09,6637.0,3702.0,-2935.0,-13.75,179.3,0.01,Above National Average,No Gap
+Sikkim,86297,48.12,5576.0,3702.0,-1874.0,-16.17,150.6,0.02,Above National Average,No Gap
+Ladakh,21027,25.06,11918.0,3702.0,-8216.0,-17.28,322.0,0.0,Above National Average,No Gap
+Mizoram,314921,144.34,4583.0,3702.0,-881.0,-27.74,123.8,0.07,Above National Average,No Gap
+Chandigarh,315604,149.38,4733.0,3702.0,-1031.0,-32.54,127.9,0.07,Above National Average,No Gap
+Dadra and Nagar Haveli and Daman and Diu,215326,115.25,5352.0,3702.0,-1650.0,-35.53,144.6,0.05,Above National Average,No Gap
+Goa,175532,133.66,7615.0,3702.0,-3913.0,-68.69,205.7,0.04,Above National Average,No Gap
+Arunachal Pradesh,383425,224.33,5851.0,3702.0,-2149.0,-82.4,158.1,0.08,Above National Average,No Gap
+Tripura,895144,426.43,4764.0,3702.0,-1062.0,-95.06,128.7,0.2,Above National Average,No Gap
+Meghalaya,630315,339.94,5393.0,3702.0,-1691.0,-106.59,145.7,0.14,Above National Average,No Gap
+Delhi,5526106,2314.92,4189.0,3702.0,-487.0,-269.12,113.2,1.2,Above National Average,No Gap
+Kerala,5086574,2191.01,4307.0,3702.0,-605.0,-307.74,116.4,1.11,Above National Average,No Gap
+Karnataka,16409698,6391.73,3895.0,3702.0,-193.0,-316.71,105.2,3.58,Above National Average,No Gap
+Odisha,18977972,7422.18,3911.0,3702.0,-209.0,-396.64,105.7,4.14,Above National Average,No Gap
+Himachal Pradesh,1639411,1106.0,6746.0,3702.0,-3044.0,-499.04,182.2,0.36,Above National Average,No Gap
+Uttarakhand,2963899,1650.37,5568.0,3702.0,-1866.0,-553.06,150.4,0.65,Above National Average,No Gap
+Punjab,7908413,3496.38,4421.0,3702.0,-719.0,-568.61,119.4,1.72,Above National Average,No Gap
+Jammu and Kashmir,2584501,1581.62,6120.0,3702.0,-2418.0,-624.93,165.3,0.56,Above National Average,No Gap
+Gujarat,17025677,7534.47,4425.0,3702.0,-723.0,-1230.96,119.5,3.71,Above National Average,No Gap
+Haryana,8682947,4811.29,5541.0,3702.0,-1839.0,-1596.79,149.7,1.89,Above National Average,No Gap
+Rajasthan,31842478,13849.83,4349.0,3702.0,-647.0,-2060.21,117.5,6.94,Above National Average,No Gap
+Uttar Pradesh,81132615,33488.9,4128.0,3702.0,-426.0,-3456.25,111.5,17.68,Above National Average,No Gap
